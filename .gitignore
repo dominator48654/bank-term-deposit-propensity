@@ -1,0 +1,39 @@
+# ---------- Byte-compiled / optimised ----------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------- Virtual environments ----------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------- Jupyter Notebook ----------
+.ipynb_checkpoints/
+*.ipynb_checkpoint/
+
+# ---------- IDE / editor ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- OS generated ----------
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+__MACOSX/
+
+# ---------- Data archives (raw ZIPs – the CSVs are tracked) ----------
+*.zip
+
+# ---------- Claude / AI assistant local config ----------
+.claude/
+
+# ---------- Large scored files (regenerate from the notebook) ----------
+# Uncomment the next line if the 168 KB holdout file is too large for your needs:
+# outputs/holdout_2010_scored.csv
