@@ -37,3 +37,4 @@ __MACOSX/
 # ---------- Large scored files (regenerate from the notebook) ----------
 # Uncomment the next line if the 168 KB holdout file is too large for your needs:
 # outputs/holdout_2010_scored.csv
+outputs/
